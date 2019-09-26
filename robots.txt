@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://ooghahghe.viktormiranda.se/sitemap.xml
